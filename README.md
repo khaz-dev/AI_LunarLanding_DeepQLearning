@@ -1,4 +1,4 @@
-# Deep Q Learning for Lunar Landing
+# AI Lunar Landing using Deep Q Learning
 
 Implement Deep Q Learning for training agent to do save landing to the moon (using Lunar Landing Atari environment).
 After done about 726-ish training session Agent can do Landing safely in the environment and we finally got trained Agent.
